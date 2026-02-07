@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Safakhanum Soudagar
-**A CSE student | Full Stack Developer | AI & Cloud | Open Source Contributor **
+**A CSE student | Full Stack Developer | AI & Cloud | Open Source Contributor**
 
 ### 👩‍💻 About Me
 
