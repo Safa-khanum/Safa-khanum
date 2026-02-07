@@ -14,22 +14,12 @@ Actively contributing to open-source programs such as **WoCS ’25, SWOC ’26, 
 * Databases & Tools: SQL, Git, GitHub
 * Cloud & AI: Google Cloud, AI Agents
 
-### 🌱 Learning & Open Source
+### 🌱 Learning, Open Source & Current Focus
 
-* Active contributor to open-source initiatives
-* Experience with collaborative, production-level codebases
+* Active contributor to open-source initiatives with experience in collaborative, production-level codebases
 * Continuous upskilling through cloud and AI programs
-
-### 🎯 Currently Exploring
-
-* Scalable web applications
-* AI-powered systems
-* Cloud-native development
-
-- 🔭 **I’m currently working on:** Open Source Programs
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 😄 **Pronouns:** Safa Khanum
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+* Currently exploring scalable web applications, AI-powered systems, and cloud-native development
+* ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 Email Me 👉 ✉️ **safauknow@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
