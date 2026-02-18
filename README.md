@@ -1,8 +1,11 @@
-# 💫 Hi 👋, I'm Safakhanum Soudagar
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+Safakhanum+Soudagar;Welcome+to+my+Profile!)
+
+
 **A CSE student | Full Stack Developer | AI & Cloud | Open Source Contributor**
 
-### 👩‍💻 About Me
+### 👩‍💻 About Me   ![Floating Web Tech Stack](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
 
+# 💫 Hi 👋, I'm Safakhanum Soudagar
 Computer Science and Engineering student focused on building practical, real-world software solutions beyond academic requirements. I believe in learning by building, experimenting with ideas, and improving through hands-on development, problem-solving, and working with real codebases.
 
 Actively contributing to open-source programs such as **WoCS ’25, SWOC ’26, Elite Coders ’26, and OSCG ’26**, and continuously upskilling through **Google Cloud Skills Boost** while exploring cloud-native and AI-driven applications.
@@ -24,7 +27,8 @@ Actively contributing to open-source programs such as **WoCS ’25, SWOC ’26, 
 Email Me 👉 ✉️ **safauknow@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 📍 Bengaluru, India
-
+    
+  ![Kyubey](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/safakhanum-soudagar-306933357/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safauknow@gmail.com) 
@@ -47,5 +51,7 @@ Email Me 👉 ✉️ **safauknow@gmail.com** For Collaboration/Project or Anythi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Safa-khanum&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Pixel Cat](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
