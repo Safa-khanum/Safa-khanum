@@ -54,6 +54,6 @@ Email Me 👉 ✉️ **safauknow@gmail.com** For Collaboration/Project or Anythi
 ---
 [![](https://visitcount.itsvg.in/api?id=Safa-khanum&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Pixel Cat](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif)   **Hava a Good Day!**
+![Pixel Cat](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif)   **Have a great day!**
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
