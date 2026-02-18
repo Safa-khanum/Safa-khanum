@@ -3,8 +3,10 @@
 
 **A CSE student | Full Stack Developer | AI & Cloud | Open Source Contributor**
 
-### 👩‍💻 About Me   ![Floating Web Tech Stack](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
+  ![Continuous Development Loop](https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif)
 
+
+### 👩‍💻 About Me
 # 💫 Hi 👋, I'm Safakhanum Soudagar
 Computer Science and Engineering student focused on building practical, real-world software solutions beyond academic requirements. I believe in learning by building, experimenting with ideas, and improving through hands-on development, problem-solving, and working with real codebases.
 
